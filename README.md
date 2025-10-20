@@ -19,6 +19,9 @@ This project demonstrates the power of IoT integration — connecting hardware a
 
 This workflow ensures real-time interaction and smooth synchronization between the user interface, database, and physical device.
 
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/e53f1eec-8958-4b72-8a2c-75eb603ef415" />
+
+
 ## Software Requirements
 
 - Go (Golang): Handles backend logic and server-side communication.
